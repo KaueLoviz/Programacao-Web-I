@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>PRIMEIRA AULA DE JAVASCRIPT</title>
+    </head>
+    <body>
+        <script type="text/javascript">
+            var s, sl, off;
+            s=parseFloat(prompt("Digite seu salário atual:"));
+            if(s<=1751.82){
+                sl=s*8/100;
+                off=s-sl;
+                alert("Seu salário atual é: "+s);
+                alert("Seu salário líquido é: "+off);
+                alert("O desconto foi de: 8%");
+            }
+            else if(s>1751.82 && s<=2919.72){
+                sl=s*9/100;
+                off=s-sl;
+                alert("Seu salário atual é: "+s);
+                alert("Seu salário líquido é: "+off);
+                alert("O desconto foi de: 9%");
+            }
+            else if(s>2919.72 && s<=5839.45){
+                sl=s*11/100;
+                off=s-sl;
+                alert("Seu salário atual é: "+s);
+                alert("Seu salário líquido é: "+off);
+                alert("O desconto foi de: 11%");
+            }
+        </script>
+    </body>
+</html>

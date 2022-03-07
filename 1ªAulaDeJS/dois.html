@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>PRIMEIRA AULA DE JAVASCRIPT</title>
+    </head>
+        <body>
+            <script type="text/javascript">
+                var n1, n2, n3, n4, nome, m;
+                nome=(prompt("Digite seu nome:"));
+                n1=parseInt(prompt("Digite sua 1ª nota:"));
+                n2=parseInt(prompt("Digite sua 2ª nota:"));
+                n3=parseInt(prompt("Digite sua 3ª nota:"));
+                n4=parseInt(prompt("Digite sua 4ª nota:"));
+                m=(n1+n2+n3+n4)/4;
+                alert("Sua média foi: "+m)
+                if(m<=3){
+                   alert(nome+", você foi retido!");
+                }
+                if(m>3 && m<6){
+                   alert(nome+", você está em exame!");
+                }
+                if(m>=6){
+                   alert(nome+", você foi promovido!");
+                }
+            </script>
+    </body>
+</html>

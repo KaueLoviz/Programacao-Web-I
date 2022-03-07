@@ -1,0 +1,147 @@
+h1{
+    font-family: Berlin Sans FB;
+    margin-top: 8%;
+    text-align: center;
+}
+
+h2{
+    font-size: 18px;
+    font-family: Berlin Sans FB;
+    text-align: center; 
+}
+
+h3{
+    text-align: center;
+    font-family: Berlin Sans FB;
+    margin-top: -1%;
+    margin-bottom: 5%;
+}
+
+ul{
+    margin-left: 42.5%;
+}
+
+li{
+    text-decoration: none;
+    list-style: square;
+    font-family: Eras ITC;
+    margin-bottom: 1%;
+    text-decoration: none;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.txt{
+    vertical-align: middle;
+    text-align: center;
+    font-family: Berlin Sans FB; 
+}
+
+.etecGu{
+    background-image: url(../img/bg.jpg);
+    height: 340px;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 2%;
+    padding-top: 3%;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: Arial Rounded MT;
+}
+
+.extenso{
+    background-image: url(../img/bg.jpg);
+    height: 180px;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 2%;
+    padding-top: 4%;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: Arial Rounded MT;
+}
+
+.etec{
+    margin-bottom: 0%;
+    margin-top: 3%;
+}
+
+.extensoT{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.back{
+    margin-top: 5%;
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+}
+
+.backT{
+    margin-top: 10%;
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+}
+
+#foto{
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+
+#program{
+    width: 60%;
+    height: 100%;
+    margin-top: -12%;
+    float: left;
+}
+
+#ft{
+    margin-top: -15%;
+    margin-left: 15%;
+    width: 100px;
+}
+
+.login{
+    background-image: url(../img/bg.jpg);
+    height: 145px;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 2%;
+    padding-top: 4%;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    font-family: Arial Rounded MT;
+}
+
+#et{
+    font-size: 18px;
+    margin-top: 10%;
+    margin-bottom: 30%;
+    margin-left: -20%;
+}
+
+#linha{
+    margin-bottom: 10%;
+    margin-top: -29%;
+    margin-right: 20%;
+    height: 1px;
+    background-color: white;
+    border-color: transparent;
+}
+
+
+
+
+
+
